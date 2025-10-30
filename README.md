@@ -52,11 +52,11 @@ books_scraper/
 ---
 
 ## Utilisation
-1️. Lancer le script pour toutes les catégories
-python scrape_books.py all
+1️. Lancer le script pour toutes les catégories  
+`python scrape_books.py all`
 
-2️. Lancer le script pour une ou plusieurs catégories précises
-python scrape_books.py travel mystery philosophy
+2️. Lancer le script pour une ou plusieurs catégories précises  
+`python scrape_books.py travel mystery philosophy`
 
-3️. Voir la liste des catégories disponibles
-python scrape_books.py
+3️. Voir la liste des catégories disponibles  
+`python scrape_books.py`
