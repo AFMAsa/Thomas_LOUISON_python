@@ -28,23 +28,25 @@ pip install requests pandas scrapy
 ---
 
 ## Structure du projet
-books_scraper/  
-│  
-├── scrape_books.py        # Script principal  
-├── README.md              # Documentation du projet  
-│  
-├── csv/                   # Dossier contenant les fichiers CSV  
-│   ├── travel.csv  
-│   ├── mystery.csv  
-│   └── ...  
+```text
+books_scraper/
 │
-└── images/                # Dossier contenant les images par catégorie  
-    ├── travel/  
-    │   ├── It's_Only_the_Himalayas.jpg  
-    │   ├── Full_Moon_Over_Noah’s_Ark.jpg  
-    └── mystery/  
-        ├── In_the_Woods.jpg  
-        ├── Gone_Girl.jpg  
+├── scrape_books.py        # Script principal
+├── README.md              # Documentation du projet
+│
+├── csv/                   # Dossier contenant les fichiers CSV
+│   ├── travel.csv
+│   ├── mystery.csv
+│   └── ...
+│
+└── images/                # Dossier contenant les images par catégorie
+    ├── travel/
+    │   ├── It's_Only_the_Himalayas.jpg
+    │   ├── Full_Moon_Over_Noah’s_Ark.jpg
+    └── mystery/
+        ├── In_the_Woods.jpg
+        ├── Gone_Girl.jpg
+```
 
 
 ---
