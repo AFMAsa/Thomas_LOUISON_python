@@ -29,9 +29,9 @@ pip install requests pandas scrapy
 
 ## Structure du projet
 ```text
-books_scraper/
+dossier/
 │
-├── scrape_books.py        # Script principal
+├── projet.py        # Script principal
 ├── README.md              # Documentation du projet
 │
 ├── csv/                   # Dossier contenant les fichiers CSV
