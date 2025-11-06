@@ -9,7 +9,7 @@ from datetime import datetime
 
 #  CONFIGURATION
 
-OPENWEATHER_API_KEY = "72d2ac53c44992bdd1e29686aafe5dee"
+OPENWEATHER_API_KEY = "api_key"
 
 CITIES = [
     'Paris','Marseille','Lyon','Toulouse','Nice','Nantes','Strasbourg','Montpellier','Bordeaux','Lille',
@@ -406,4 +406,5 @@ def main():
     print("\n Ouvrez les fichiers HTML dans votre navigateur!")
 
 if __name__ == "__main__":
+
     main()
